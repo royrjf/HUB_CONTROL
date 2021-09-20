@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=VCC5V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Member From Class: ClassName=RST_SER_1 Member=P3
+Added Component: Designator=P8(USB-A-TH_AF90-OFFSET - duplicate)
+Added Pin To Net: NetName=USB_EX2_5V Pin=P3-1
+Added Pin To Net: NetName=USBDN2- Pin=P3-2
+Added Pin To Net: NetName=USBDN2+ Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=VCC5V Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Member To Class: ClassName=RST_SER_1 Member=Component P8 USB1

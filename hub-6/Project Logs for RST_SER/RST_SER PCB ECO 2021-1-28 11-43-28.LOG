@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=USB_EX3_5V Pin=P3-1
+Removed Pin From Net: NetName=USBDN2- Pin=P5-2
+Removed Pin From Net: NetName=USBDN2+ Pin=P5-3
+Removed Pin From Net: NetName=USB_EX3_EN Pin=R13-1
+Removed Pin From Net: NetName=USB_EX3_EN Pin=R31-1
+Removed Pin From Net: NetName=USB_EX3_EN Pin=U3-3
+Removed Pin From Net: NetName=USB_EX3_EN Pin=U7-3
+Removed Pin From Net: NetName=USB_EX3_5V Pin=U7-6
+Added Pin To Net: NetName=USB_EX3_5V Pin=C31-1
+Added Pin To Net: NetName=USBDN3- Pin=P5-2
+Added Pin To Net: NetName=USBDN3+ Pin=P5-3
+Added Pin To Net: NetName=USB_EX1_EN Pin=R13-1
+Added Pin To Net: NetName=USB_EX2_EN Pin=R31-1
+Added Pin To Net: NetName=USB_EX3_5V Pin=R42-2
+Added Pin To Net: NetName=USB_EX1_EN Pin=U3-3
+Added Pin To Net: NetName=USB_EX2_EN Pin=U7-3
+Added Pin To Net: NetName=USB_EX2_5V Pin=C7-1
+Added Pin To Net: NetName=USB_EX2_5V Pin=P3-1
+Added Pin To Net: NetName=USB_EX2_5V Pin=R36-2
+Added Pin To Net: NetName=USB_EX2_5V Pin=U7-6
+Added Net: Name=USB_EX2_5V

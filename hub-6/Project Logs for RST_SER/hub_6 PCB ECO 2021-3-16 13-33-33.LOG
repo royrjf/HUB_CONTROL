@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=NetR51_2 Pin=U1-13
+Removed Pin From Net: NetName=NetR50_2 Pin=U1-42
+Change Component DesignItemId : Designator=R50 Old DesignItemId=0603 1K次 (1001) 1% New DesignItemId=0603 4.7K次 (4701) 1%
+Change Component DesignItemId : Designator=R51 Old DesignItemId=0603 1K次 (1001) 1% New DesignItemId=0603 4.7K次 (4701) 1%
+Change Component Comment : Designator=R50 Old Comment=1K次 (1001) ㊣1% New Comment=4.7K次 (4701) ㊣1%
+Change Component Comment : Designator=R51 Old Comment=1K次 (1001) ㊣1% New Comment=4.7K次 (4701) ㊣1%
+Added Component: Designator=R57(0603_R)
+Added Pin To Net: NetName=VCC3V3 Pin=R50-1
+Added Pin To Net: NetName=VCC3V3 Pin=R51-1
+Added Pin To Net: NetName=GND Pin=R57-1
+Added Pin To Net: NetName=NetR51_2 Pin=U1-42
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=U1-13
+Added Net: Name=NetR57_2
+Added Member To Class: ClassName=USB2517 Member=Component R57 4.7K次 (4701) ㊣1%

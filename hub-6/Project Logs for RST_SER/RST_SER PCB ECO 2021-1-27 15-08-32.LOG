@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=USB+5V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=USB_UP- Pin=P1-2
+Added Pin To Net: NetName=USB_UP+ Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=USB2517 Member=Component C18 4.7uF (475) 10% 16V
+Added Member To Class: ClassName=USB2517 Member=Component P1 USB1

@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=RST_SER_1 Member=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C8
+Added Member To Class: ClassName=RST_SER_1 Member=Component C8 1uF  50V

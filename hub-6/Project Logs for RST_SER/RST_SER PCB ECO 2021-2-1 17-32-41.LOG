@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-41
+Removed Pin From Net: NetName=GND Pin=U1-42
+Added Component: Designator=R50(0603_R)
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=U1-13
+Added Pin To Net: NetName=NetR50_2 Pin=U1-41
+Added Pin To Net: NetName=NetR50_2 Pin=U1-42
+Added Net: Name=NetR50_2
+Added Member To Class: ClassName=USB2517 Member=Component R50 1K¦¸ (1001) ¡À1%

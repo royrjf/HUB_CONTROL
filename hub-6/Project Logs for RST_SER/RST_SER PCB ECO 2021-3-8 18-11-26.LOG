@@ -1,0 +1,261 @@
+Change Component DesignItemId : Designator=C30 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=CH340G
+Change Component DesignItemId : Designator=J3 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J5 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=induct
+Change Component DesignItemId : Designator=Y1 Old DesignItemId= New DesignItemId=OSC-24M
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=U7 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=U8 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=U9 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=U10 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=U11 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=D11 Old DesignItemId= New DesignItemId=TVS
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P3 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P4 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P5 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P6 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P7 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P8 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=USB2517-JZX
+Change Component DesignItemId : Designator=D4 Old DesignItemId=0 New DesignItemId=0603 红灯
+Change Component DesignItemId : Designator=D1 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D2 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D5 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D6 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D7 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D8 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D9 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=D10 Old DesignItemId=0 New DesignItemId=0603 绿灯
+Change Component DesignItemId : Designator=R34 Old DesignItemId=0603 1KΩ ( New DesignItemId=0603 1KΩ (1001) 1%
+Change Component DesignItemId : Designator=R50 Old DesignItemId=0603 1KΩ ( New DesignItemId=0603 1KΩ (1001) 1%
+Change Component DesignItemId : Designator=R51 Old DesignItemId=0603 1KΩ ( New DesignItemId=0603 1KΩ (1001) 1%
+Change Component DesignItemId : Designator=R20 Old DesignItemId=0603 1MΩ ( New DesignItemId=0603 1MΩ (1004) 1%
+Change Component DesignItemId : Designator=R30 Old DesignItemId=0603 1MΩ ( New DesignItemId=0603 1MΩ (1004) 1%
+Change Component DesignItemId : Designator=C2 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C7 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C16 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C17 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C25 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C31 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C33 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=C35 Old DesignItemId=0603 1uF (105) 10% New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=R19 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R27 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R33 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R36 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R40 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R42 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R45 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=R48 Old DesignItemId=0603 4.7KΩ ( New DesignItemId=0603 4.7KΩ (4701) 1%
+Change Component DesignItemId : Designator=C18 Old DesignItemId=0603 4.7uF (475) 10% New DesignItemId=0603 4.7uF (475) 10% 16V
+Change Component DesignItemId : Designator=R13 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R21 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R31 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R32 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R38 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R39 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R43 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=R47 Old DesignItemId=0603 10KΩ ( New DesignItemId=0603 10KΩ (1002) 1%
+Change Component DesignItemId : Designator=C29 Old DesignItemId=0603 10nF (103) 10% New DesignItemId=0603 10nF (103) 10% 50V
+Change Component DesignItemId : Designator=C21 Old DesignItemId=0603 10uF (106) 10% New DesignItemId=0603 10uF (106) 10% 10V
+Change Component DesignItemId : Designator=C27 Old DesignItemId=0603 10uF (106) 10% New DesignItemId=0603 10uF (106) 10% 10V
+Change Component DesignItemId : Designator=R35 Old DesignItemId=0603 12KΩ ( New DesignItemId=0603 12KΩ (1202) 1%
+Change Component DesignItemId : Designator=R22 Old DesignItemId=0603 22KΩ ( New DesignItemId=0603 22KΩ (2202) 1%
+Change Component DesignItemId : Designator=R29 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R37 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R41 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R44 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R46 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R49 Old DesignItemId=0603 27KΩ ( New DesignItemId=0603 27KΩ (2702) 1%
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R9 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R10 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R11 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R12 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R14 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R15 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R16 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R17 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R18 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R26 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=R28 Old DesignItemId=0603 27Ω ( New DesignItemId=0603 27Ω (27R0) 1%
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0603 33pF (330) 5% New DesignItemId=0603 33pF (330) 5% 50V
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0603 33pF (330) 5% New DesignItemId=0603 33pF (330) 5% 50V
+Change Component DesignItemId : Designator=R4 Old DesignItemId=0603 100KΩ ( New DesignItemId=0603 100KΩ (1003) 1%
+Change Component DesignItemId : Designator=R5 Old DesignItemId=0603 100KΩ ( New DesignItemId=0603 100KΩ (1003) 1%
+Change Component DesignItemId : Designator=C1 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C3 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C6 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C10 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C11 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C12 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C13 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C14 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C15 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C19 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C22 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C23 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C24 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C26 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C28 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C32 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=C34 Old DesignItemId=0603 100nF (104) 10% New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=R3 Old DesignItemId=0603 120KΩ ( New DesignItemId=0603 120KΩ (1203) 1%
+Change Component DesignItemId : Designator=R23 Old DesignItemId=0603 120KΩ ( New DesignItemId=0603 120KΩ (1203) 1%
+Change Component DesignItemId : Designator=R24 Old DesignItemId=0603 120KΩ ( New DesignItemId=0603 120KΩ (1203) 1%
+Change Component DesignItemId : Designator=C20 Old DesignItemId=0603 470pF (471) 10% New DesignItemId=0603 470pF (471) 10% 50V
+Change Component DesignItemId : Designator=R25 Old DesignItemId=0603 470Ω ( New DesignItemId=0603 470Ω (4700) 1%
+Change Component DesignItemId : Designator=C9 Old DesignItemId=1206 220pF (221) 10% New DesignItemId=1206 220pF (221) 10% 50V
+Change Component DesignItemId : Designator=D3 Old DesignItemId=SMA(DO-214AC New DesignItemId=SMA(DO-214AC) SS54
+Change Component DesignItemId : Designator=U6 Old DesignItemId=STM32F0 New DesignItemId=STM32F030F4P6
+Change Component Description : Designator=U6 Old Description= New Description=ARM
+Change Component Description : Designator=U4 Old Description= New Description=MP2560D_SOIC-8_EP_150mil
+Change Component Description : Designator=Y1 Old Description= New Description=SMD-3225_4P
+Change Component Description : Designator=U3 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U7 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U8 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U9 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U10 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U11 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=D3 Old Description= New Description=二极管
+Change Component Description : Designator=D1 Old Description= New Description=发光二极管
+Change Component Description : Designator=D2 Old Description= New Description=发光二极管
+Change Component Description : Designator=D4 Old Description= New Description=发光二极管
+Change Component Description : Designator=D5 Old Description= New Description=发光二极管
+Change Component Description : Designator=D6 Old Description= New Description=发光二极管
+Change Component Description : Designator=D7 Old Description= New Description=发光二极管
+Change Component Description : Designator=D8 Old Description= New Description=发光二极管
+Change Component Description : Designator=D9 Old Description= New Description=发光二极管
+Change Component Description : Designator=D10 Old Description= New Description=发光二极管
+Change Component Description : Designator=C1 Old Description= New Description=贴片电容
+Change Component Description : Designator=C2 Old Description= New Description=贴片电容
+Change Component Description : Designator=C3 Old Description= New Description=贴片电容
+Change Component Description : Designator=C4 Old Description= New Description=贴片电容
+Change Component Description : Designator=C5 Old Description= New Description=贴片电容
+Change Component Description : Designator=C6 Old Description= New Description=贴片电容
+Change Component Description : Designator=C7 Old Description= New Description=贴片电容
+Change Component Description : Designator=C8 Old Description= New Description=贴片电容
+Change Component Description : Designator=C9 Old Description= New Description=贴片电容
+Change Component Description : Designator=C10 Old Description= New Description=贴片电容
+Change Component Description : Designator=C11 Old Description= New Description=贴片电容
+Change Component Description : Designator=C12 Old Description= New Description=贴片电容
+Change Component Description : Designator=C13 Old Description= New Description=贴片电容
+Change Component Description : Designator=C14 Old Description= New Description=贴片电容
+Change Component Description : Designator=C15 Old Description= New Description=贴片电容
+Change Component Description : Designator=C16 Old Description= New Description=贴片电容
+Change Component Description : Designator=C17 Old Description= New Description=贴片电容
+Change Component Description : Designator=C18 Old Description= New Description=贴片电容
+Change Component Description : Designator=C19 Old Description= New Description=贴片电容
+Change Component Description : Designator=C20 Old Description= New Description=贴片电容
+Change Component Description : Designator=C21 Old Description= New Description=贴片电容
+Change Component Description : Designator=C22 Old Description= New Description=贴片电容
+Change Component Description : Designator=C23 Old Description= New Description=贴片电容
+Change Component Description : Designator=C24 Old Description= New Description=贴片电容
+Change Component Description : Designator=C25 Old Description= New Description=贴片电容
+Change Component Description : Designator=C26 Old Description= New Description=贴片电容
+Change Component Description : Designator=C27 Old Description= New Description=贴片电容
+Change Component Description : Designator=C28 Old Description= New Description=贴片电容
+Change Component Description : Designator=C29 Old Description= New Description=贴片电容
+Change Component Description : Designator=C31 Old Description= New Description=贴片电容
+Change Component Description : Designator=C32 Old Description= New Description=贴片电容
+Change Component Description : Designator=C33 Old Description= New Description=贴片电容
+Change Component Description : Designator=C34 Old Description= New Description=贴片电容
+Change Component Description : Designator=C35 Old Description= New Description=贴片电容
+Change Component Description : Designator=L2 Old Description= New Description=贴片电感
+Change Component Description : Designator=R1 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R2 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R9 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R10 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R11 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R12 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R13 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R14 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R15 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R16 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R17 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R18 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R19 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R20 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R21 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R22 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R23 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R24 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R31 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R32 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R33 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R34 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R35 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R36 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R37 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R38 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R39 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R40 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R41 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R42 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R43 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R44 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R45 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R46 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R47 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R48 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R49 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R50 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R51 Old Description= New Description=贴片电阻
+Change Component Description : Designator=U5 Old Description=https://item.szl New Description=https://item.szlcsc.com/40034.html LDO 3.3V
+Change Component Library : Designator=C30 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=D11 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=J3 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=J4 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=J5 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P1 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P2 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P3 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P4 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P5 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P6 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P7 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=P8 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=U2 Old Library= New Library=我的集成库.IntLib
+Change Component Library : Designator=L1 Old Library=? New Library=我的原理图库.SchLib
+Change Component Library : Designator=U1 Old Library=我的集成 New Library=我的集成库.IntLib
+Added Component: Designator=C36(0603_C)
+Added Component: Designator=C37(0603_C)
+Added Component: Designator=C38(0603_C)
+Added Component: Designator=C39(0603_C)
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=VDD18PLL Pin=C36-2
+Added Pin To Net: NetName=VDD18PLL Pin=C37-2
+Added Pin To Net: NetName=VDD18PLL Pin=U1-62
+Added Net: Name=VDD18PLL
+Added Pin To Net: NetName=VDD18 Pin=C38-2
+Added Pin To Net: NetName=VDD18 Pin=C39-2
+Added Pin To Net: NetName=VDD18 Pin=U1-25
+Added Net: Name=VDD18
+Added Member To Class: ClassName=USB2517 Member=Component C36 100nF (104) 10% 50V
+Added Member To Class: ClassName=USB2517 Member=Component C37 1uF (105) 10% 50V
+Added Member To Class: ClassName=USB2517 Member=Component C38 100nF (104) 10% 50V
+Added Member To Class: ClassName=USB2517 Member=Component C39 1uF (105) 10% 50V

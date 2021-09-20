@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=R52-2
+Removed Member From Class: ClassName=USB2517 Member=C8
+Removed Member From Class: ClassName=RST_SER_1 Member=R52
+Added Component: Designator=R3(0603_R)
+Added Component: Designator=R22(0603_R)
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=D4-K
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=VCC24V Pin=R22-2
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R22-1
+Added Pin To Net: NetName=NetR3_1 Pin=U15-4
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=USB2517 Member=Component C39 1uF (105) 10% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component R3 20K¦¸ (2002) ¡À1%
+Added Member To Class: ClassName=RST_SER_1 Member=Component R22 200K¦¸ (2003) ¡À1%

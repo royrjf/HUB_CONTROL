@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=VCC24V Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=VCC5V Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=NetC20_2 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Member From Class: ClassName=RST_SER_1 Member=D3
+Change Component DesignItemId : Designator=C17 Old DesignItemId=0603 1uF (105) 10% 50V New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=R22 Old DesignItemId=0603 22K¶∏ (2202) 1% New DesignItemId=0603 200K¶∏ (2003) 1%
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0603 100nF (104) 10% 50V New DesignItemId=1206 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=R24 Old DesignItemId=0603 120K¶∏ (1203) 1% New DesignItemId=0603 2K¶∏ (2001) 1%
+Change Component DesignItemId : Designator=R3 Old DesignItemId=0603 120K¶∏ (1203) 1% New DesignItemId=0603 20K¶∏ (2002) 1%
+Change Component DesignItemId : Designator=R23 Old DesignItemId=0603 120K¶∏ (1203) 1% New DesignItemId=0603 20K¶∏ (2002) 1%
+Change Component DesignItemId : Designator=C20 Old DesignItemId=0603 470pF (471) 10% 50V New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=R25 Old DesignItemId=0603 470¶∏ (4700) 1% New DesignItemId=0603 3K¶∏ (3001) 1%
+Change Component DesignItemId : Designator=C9 Old DesignItemId=1206 220pF (221) 10% 50V New DesignItemId=1206 10uF (106) 10% 50V
+Change Component DesignItemId : Designator=U4 Old DesignItemId=MP2560D New DesignItemId=MP4575
+Change Component DesignItemId : Designator=U1 Old DesignItemId=US New DesignItemId=USB2517-JZX
+Change Component Footprint: Designator=L1 Old Footprint=12.3*12.3*8.0 New Footprint=L_SMD,5.7x5.2mm
+Change Component Footprint: Designator=C8 Old Footprint=0603_C New Footprint=1206_C
+Change Component Footprint: Designator=U4 Old Footprint=SOP-8_150mil New Footprint=TSSOP-20
+Change Component Comment : Designator=C17 Old Comment=1uF  50V New Comment=100nF (104) 10% 50V
+Change Component Comment : Designator=L1 Old Comment=15uH New Comment=induct
+Change Component Comment : Designator=R22 Old Comment=22K¶∏ New Comment=200K¶∏ (2003) °¿1%
+Change Component Comment : Designator=C9 Old Comment=22u/25V New Comment=22UF/25V
+Change Component Comment : Designator=C8 Old Comment=100nF New Comment=1uF  50V
+Change Component Comment : Designator=R24 Old Comment=120K¶∏ (1203) °¿1% New Comment=2K¶∏ (2001) °¿1%
+Change Component Comment : Designator=R3 Old Comment=120K¶∏ New Comment=20K¶∏ (2002) °¿1%
+Change Component Comment : Designator=R23 Old Comment=120K¶∏ New Comment=20K¶∏ (2002) °¿1%
+Change Component Comment : Designator=C20 Old Comment=470pF (471) 10% 50V New Comment=1uF (105) 10% 50V
+Change Component Comment : Designator=R25 Old Comment=470¶∏ New Comment=3K¶∏ (3001) °¿1%
+Change Component Comment : Designator=U4 Old Comment=MP4560D New Comment=MP4575
+Change Component Description : Designator=C1 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C2 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C3 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C4 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C5 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C6 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C7 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C9 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C10 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C11 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C12 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C13 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C14 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C15 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C16 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C17 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C18 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C19 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C20 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C21 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C22 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C23 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C24 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C25 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C26 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C27 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C28 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C29 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C31 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C32 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C33 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C34 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C35 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C36 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C37 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C38 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=C39 Old Description=? New Description=Ã˘∆¨µÁ»›
+Change Component Description : Designator=Y1 Old Description=SM New Description=SMD-3225_4P
+Change Component Description : Designator=VR1 Old Description=µÕ—π≤Óœﬂ–‘? New Description=µÕ—π≤Óœﬂ–‘Œ»—π(LDO)
+Change Component Description : Designator=L2 Old Description=Ã˘? New Description=Ã˘∆¨µÁ∏–
+Added Component: Designator=C40(0603_C)
+Added Component: Designator=C41(0603_C)
+Added Component: Designator=C42(0603_C)
+Added Component: Designator=R52(0603_R)
+Added Component: Designator=R53(0603_R)
+Added Component: Designator=R54(0603_R)
+Added Component: Designator=R55(0603_R)
+Added Component: Designator=R56(0603_R)
+Added Pin To Net: NetName=VCC24V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R22-1
+Added Pin To Net: NetName=VCC24V Pin=R22-2
+Added Pin To Net: NetName=VCC5V Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=VCC24V Pin=U4-6
+Added Pin To Net: NetName=VCC24V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=NetC20_2 Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=U4-5
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=L1-1
+Added Pin To Net: NetName=NetC17_2 Pin=U4-10
+Added Pin To Net: NetName=NetC17_2 Pin=U4-11
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=R56-2
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=U4-19
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=R55-1
+Added Pin To Net: NetName=NetC42_1 Pin=U4-1
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=R24-1
+Added Pin To Net: NetName=NetR23_1 Pin=R54-2
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R25-1
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=R53-1
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=U4-3
+Added Net: Name=NetR53_2
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U4-2
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=R56-1
+Added Net: Name=NetR55_2
+Added Member To Class: ClassName=RST_SER_1 Member=Component C40 2.7nF (272) 10% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component C41 100nF (104) 10% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component C42 18pF (180) 5% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component R52 62K¶∏ (6202) °¿1%
+Added Member To Class: ClassName=RST_SER_1 Member=Component R53 1.3K¶∏ (1301) °¿1%
+Added Member To Class: ClassName=RST_SER_1 Member=Component R54 0¶∏ (0R0) °¿1%
+Added Member To Class: ClassName=RST_SER_1 Member=Component R55 3K¶∏ (3001) °¿1%
+Added Member To Class: ClassName=RST_SER_1 Member=Component R56 3K¶∏ (3001) °¿1%

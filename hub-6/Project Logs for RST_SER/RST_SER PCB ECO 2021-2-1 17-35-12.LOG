@@ -1,0 +1,4 @@
+Added Component: Designator=R51(0603_R)
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=NetR50_2 Pin=R51-2
+Added Member To Class: ClassName=USB2517 Member=Component R51 1K¦¸ (1001) ¡À1%

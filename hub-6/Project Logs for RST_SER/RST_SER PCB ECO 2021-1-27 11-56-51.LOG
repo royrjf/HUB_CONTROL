@@ -1,0 +1,483 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C10-2
+Removed Pin From Net: NetName=VCC5V Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=USBDN3- Pin=P3-2
+Removed Pin From Net: NetName=USBDN3+ Pin=P3-3
+Removed Pin From Net: NetName=USBDN4- Pin=P4-2
+Removed Pin From Net: NetName=USBDN4+ Pin=P4-3
+Removed Pin From Net: NetName=NetD2_A Pin=R1-1
+Removed Pin From Net: NetName=USB_EX3_5V Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=USB_EX3_EN Pin=R6-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R6-2
+Removed Pin From Net: NetName=USBDN1-_N Pin=R7-1
+Removed Pin From Net: NetName=USBDN1+_P Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=USBDN2- Pin=R10-1
+Removed Pin From Net: NetName=USBDN2+ Pin=R11-1
+Removed Pin From Net: NetName=USBDN3- Pin=R12-1
+Removed Pin From Net: NetName=USB_UP+ Pin=R13-2
+Removed Pin From Net: NetName=USBDN3+ Pin=R14-1
+Removed Pin From Net: NetName=USB_UP- Pin=R15-2
+Removed Pin From Net: NetName=USBDN4- Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=USBDN4+ Pin=R18-1
+Removed Pin From Net: NetName=NetR17_1 Pin=R19-1
+Removed Pin From Net: NetName=USB_EX1_EN Pin=R26-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R26-2
+Removed Pin From Net: NetName=NetD5_A Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=USB_EX2_EN Pin=R29-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R29-2
+Removed Pin From Net: NetName=NetD6_A Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=VCC5V Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=USB_EX3_EN Pin=U1-3
+Removed Pin From Net: NetName=USB_EX3_5V Pin=U1-6
+Removed Pin From Net: NetName=NetR7_2 Pin=U3-1
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-5
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-10
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-15
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-23
+Removed Pin From Net: NetName=GND Pin=U3-24
+Removed Pin From Net: NetName=GND Pin=U3-25
+Removed Pin From Net: NetName=USB_DET Pin=U3-27
+Removed Pin From Net: NetName=NetR17_1 Pin=U3-28
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-29
+Removed Pin From Net: NetName=NetR15_1 Pin=U3-30
+Removed Pin From Net: NetName=NetR9_1 Pin=U3-35
+Removed Pin From Net: NetName=VCC3V3 Pin=U3-36
+Removed Pin From Net: NetName=GND Pin=U3-37
+Removed Pin From Net: NetName=USB_EX1_EN Pin=U7-3
+Removed Pin From Net: NetName=USB_EX2_EN Pin=U8-3
+Removed Member From Class: ClassName=RST_SER_1 Member=C1
+Removed Member From Class: ClassName=RST_SER_1 Member=C2
+Removed Member From Class: ClassName=RST_SER_1 Member=C4
+Removed Member From Class: ClassName=RST_SER_1 Member=C5
+Removed Member From Class: ClassName=RST_SER_1 Member=C6
+Removed Member From Class: ClassName=RST_SER_1 Member=C7
+Removed Member From Class: ClassName=RST_SER_1 Member=C10
+Removed Member From Class: ClassName=RST_SER_1 Member=C11
+Removed Member From Class: ClassName=RST_SER_1 Member=C12
+Removed Member From Class: ClassName=RST_SER_1 Member=C13
+Removed Member From Class: ClassName=RST_SER_1 Member=C14
+Removed Member From Class: ClassName=RST_SER_1 Member=C15
+Removed Member From Class: ClassName=RST_SER_1 Member=C22
+Removed Member From Class: ClassName=RST_SER_1 Member=C23
+Removed Member From Class: ClassName=RST_SER_1 Member=C24
+Removed Member From Class: ClassName=RST_SER_1 Member=C25
+Removed Member From Class: ClassName=RST_SER_1 Member=D1
+Removed Member From Class: ClassName=RST_SER_1 Member=D2
+Removed Member From Class: ClassName=RST_SER_1 Member=D5
+Removed Member From Class: ClassName=RST_SER_1 Member=D6
+Removed Member From Class: ClassName=RST_SER_1 Member=P2
+Removed Member From Class: ClassName=RST_SER_1 Member=P3
+Removed Member From Class: ClassName=RST_SER_1 Member=P4
+Removed Member From Class: ClassName=RST_SER_1 Member=R1
+Removed Member From Class: ClassName=RST_SER_1 Member=R2
+Removed Member From Class: ClassName=RST_SER_1 Member=R4
+Removed Member From Class: ClassName=RST_SER_1 Member=R5
+Removed Member From Class: ClassName=RST_SER_1 Member=R6
+Removed Member From Class: ClassName=RST_SER_1 Member=R7
+Removed Member From Class: ClassName=RST_SER_1 Member=R8
+Removed Member From Class: ClassName=RST_SER_1 Member=R9
+Removed Member From Class: ClassName=RST_SER_1 Member=R10
+Removed Member From Class: ClassName=RST_SER_1 Member=R11
+Removed Member From Class: ClassName=RST_SER_1 Member=R12
+Removed Member From Class: ClassName=RST_SER_1 Member=R13
+Removed Member From Class: ClassName=RST_SER_1 Member=R14
+Removed Member From Class: ClassName=RST_SER_1 Member=R15
+Removed Member From Class: ClassName=RST_SER_1 Member=R16
+Removed Member From Class: ClassName=RST_SER_1 Member=R17
+Removed Member From Class: ClassName=RST_SER_1 Member=R18
+Removed Member From Class: ClassName=RST_SER_1 Member=R19
+Removed Member From Class: ClassName=RST_SER_1 Member=R26
+Removed Member From Class: ClassName=RST_SER_1 Member=R27
+Removed Member From Class: ClassName=RST_SER_1 Member=R28
+Removed Member From Class: ClassName=RST_SER_1 Member=R29
+Removed Member From Class: ClassName=RST_SER_1 Member=R30
+Removed Member From Class: ClassName=RST_SER_1 Member=R31
+Removed Member From Class: ClassName=RST_SER_1 Member=U1
+Removed Member From Class: ClassName=RST_SER_1 Member=U3
+Removed Member From Class: ClassName=RST_SER_1 Member=U7
+Removed Member From Class: ClassName=RST_SER_1 Member=U8
+Removed Member From Class: ClassName=RST_SER_1 Member=Y1
+Change Component DesignItemId : Designator=C30 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=CH340G
+Change Component DesignItemId : Designator=J3 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J5 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=induct
+Change Component DesignItemId : Designator=PTC Old DesignItemId= New DesignItemId=PTC
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=TPS2553DBVT
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P3 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P4 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=C23 Old DesignItemId=0603 1uF (105) 10% 50V New DesignItemId=0603 100nF (104) 10% 50V
+Change Component DesignItemId : Designator=R30 Old DesignItemId=0603 4.7K¦¸ (4701) 1% New DesignItemId=0603 1M¦¸ (1004) 1%
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0603 4.7K¦¸ (4701) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=R29 Old DesignItemId=0603 10K¦¸ (1002) 1% New DesignItemId=0603 27K¦¸ (2702) 1%
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0603 10K¦¸ (1002) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=R26 Old DesignItemId=0603 10K¦¸ (1002) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=R9 Old DesignItemId=0603 12K¦¸ (1202) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0603 18pF (180) 5% 50V New DesignItemId=0603 33pF (330) 5% 50V
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0603 18pF (180) 5% 50V New DesignItemId=0603 33pF (330) 5% 50V
+Change Component DesignItemId : Designator=R31 Old DesignItemId=0603 27K¦¸ (2702) 1% New DesignItemId=0603 10K¦¸ (1002) 1%
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0603 27K¦¸ (2702) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=R28 Old DesignItemId=0603 27K¦¸ (2702) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=R13 Old DesignItemId=0603 27¦¸ (27R0) 1% New DesignItemId=0603 10K¦¸ (1002) 1%
+Change Component DesignItemId : Designator=R17 Old DesignItemId=0603 100K¦¸ (1003) 1% New DesignItemId=0603 27¦¸ (27R0) 1%
+Change Component DesignItemId : Designator=C7 Old DesignItemId=0603 100nF (104) 10% 50V New DesignItemId=0603 1uF (105) 10% 50V
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TPS2553DBVT New DesignItemId=USB2517-JZX
+Change Component Footprint: Designator=U3 Old Footprint=QFN-36_6x6x05P New Footprint=SOT-23-6
+Change Component Footprint: Designator=U1 Old Footprint=SOT-23-6 New Footprint=QFN-64
+Change Component Comment : Designator=C23 Old Comment=1uF (105) 10% 50V New Comment=100nF (104) 10% 50V
+Change Component Comment : Designator=R30 Old Comment=4.7K¦¸ (4701) ¡À1% New Comment=1M¦¸ (1004) ¡À1%
+Change Component Comment : Designator=R1 Old Comment=4.7K¦¸ (4701) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=R29 Old Comment=10K¦¸ (1002) ¡À1% New Comment=27K¦¸ (2702) ¡À1%
+Change Component Comment : Designator=R6 Old Comment=10K¦¸ (1002) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=R26 Old Comment=10K¦¸ (1002) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=R9 Old Comment=12K¦¸ (1202) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=C4 Old Comment=18pF (180) 5% 50V New Comment=33pF (330) 5% 50V
+Change Component Comment : Designator=C5 Old Comment=18pF (180) 5% 50V New Comment=33pF (330) 5% 50V
+Change Component Comment : Designator=R31 Old Comment=27K¦¸ (2702) ¡À1% New Comment=10K¦¸ (1002) ¡À1%
+Change Component Comment : Designator=R2 Old Comment=27K¦¸ (2702) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=R28 Old Comment=27K¦¸ (2702) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=R13 Old Comment=27¦¸ (27R0) ¡À1% New Comment=10K¦¸ (1002) ¡À1%
+Change Component Comment : Designator=R17 Old Comment=100K¦¸ (1003) ¡À1% New Comment=27¦¸ (27R0) ¡À1%
+Change Component Comment : Designator=C7 Old Comment=100nF (104) 10% 50V New Comment=1uF (105) 10% 50V
+Change Component Comment : Designator=U2 Old Comment=CH340G New Comment=CH340C
+Change Component Comment : Designator=U1 Old Comment=TPS2553DBVT New Comment=USB2517
+Change Component Comment : Designator=U3 Old Comment=USB2514B New Comment=TPS2553DBVT
+Change Component Description : Designator=U6 Old Description= New Description=ARM
+Change Component Description : Designator=U7 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U8 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=D3 Old Description= New Description=¶þ¼«¹Ü
+Change Component Description : Designator=D1 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=D2 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=D4 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=D5 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=D6 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=D7 Old Description= New Description=·¢¹â¶þ¼«¹Ü
+Change Component Description : Designator=R1 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R2 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R5 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R6 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R7 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R8 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R9 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R10 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R11 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R12 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R13 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R14 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R15 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R16 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R17 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R18 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R19 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R20 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R21 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R22 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R23 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R24 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R25 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R26 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R27 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R28 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R29 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R30 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R31 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R32 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R33 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R34 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=C1 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C2 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C3 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C4 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C5 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C6 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C7 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C8 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C9 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C10 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C11 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C12 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C13 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C14 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C15 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C16 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C17 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C18 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C19 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C20 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C21 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C22 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C23 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C24 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C25 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C26 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C27 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C28 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=C29 Old Description=? New Description=ÌùÆ¬µçÈÝ
+Change Component Description : Designator=U5 Old Description=https://item.szlcsc.com/40034.html New Description=https://item.szlcsc.com/40034.html LDO 3.3V
+Change Component Description : Designator=U4 Old Description=MP2560D_SOIC-8_ New Description=MP2560D_SOIC-8_EP_150mil
+Change Component Description : Designator=Y1 Old Description=SM New Description=SMD-3225_4P
+Change Component Description : Designator=L2 Old Description=Ìù? New Description=ÌùÆ¬µç¸Ð
+Added Component: Designator=C18(0603_C)
+Added Component: Designator=C31(0603_C)
+Added Component: Designator=C32(0603_C)
+Added Component: Designator=C33(0603_C)
+Added Component: Designator=C34(0603_C)
+Added Component: Designator=C35(0603_C)
+Added Component: Designator=D8(0603_LED_S1)
+Added Component: Designator=D9(0603_LED_S1)
+Added Component: Designator=D10(0603_LED_S1)
+Added Component: Designator=P1(USB-B-TH_USB-B01)
+Added Component: Designator=P5(USB-A-TH_AF90-OFFSET - duplicate)
+Added Component: Designator=P6(USB-A-TH_AF90-OFFSET - duplicate)
+Added Component: Designator=P7(USB-A-TH_AF90-OFFSET - duplicate)
+Added Component: Designator=R35(0603_R)
+Added Component: Designator=R36(0603_R)
+Added Component: Designator=R37(0603_R)
+Added Component: Designator=R38(0603_R)
+Added Component: Designator=R39(0603_R)
+Added Component: Designator=R40(0603_R)
+Added Component: Designator=R41(0603_R)
+Added Component: Designator=R42(0603_R)
+Added Component: Designator=R43(0603_R)
+Added Component: Designator=R44(0603_R)
+Added Component: Designator=R45(0603_R)
+Added Component: Designator=R46(0603_R)
+Added Component: Designator=R47(0603_R)
+Added Component: Designator=R48(0603_R)
+Added Component: Designator=R49(0603_R)
+Added Component: Designator=U9(SOT-23-6)
+Added Component: Designator=U10(SOT-23-6)
+Added Component: Designator=U11(SOT-23-6)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=USB+5V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=VCC3V3 Pin=C22-2
+Added Pin To Net: NetName=VCC5V Pin=C23-1
+Added Pin To Net: NetName=USB_EX3_5V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC5V Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=USB_EX3_5V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VCC5V Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=USB_EX3_5V Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=D8-K
+Added Pin To Net: NetName=GND Pin=D9-K
+Added Pin To Net: NetName=GND Pin=D10-K
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=USB+5V Pin=P1-1
+Added Pin To Net: NetName=USB_UP- Pin=P1-2
+Added Pin To Net: NetName=USB_UP+ Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=USB_EX3_5V Pin=P3-1
+Added Pin To Net: NetName=USBDN2- Pin=P3-2
+Added Pin To Net: NetName=USBDN2+ Pin=P3-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=P4-1
+Added Pin To Net: NetName=USBDN2- Pin=P4-2
+Added Pin To Net: NetName=USBDN2+ Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-0
+Added Pin To Net: NetName=GND Pin=P5-0
+Added Pin To Net: NetName=USB_EX3_5V Pin=P5-1
+Added Pin To Net: NetName=USBDN2- Pin=P5-2
+Added Pin To Net: NetName=USBDN2+ Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P6-0
+Added Pin To Net: NetName=GND Pin=P6-0
+Added Pin To Net: NetName=USB_EX3_5V Pin=P6-1
+Added Pin To Net: NetName=USBDN2- Pin=P6-2
+Added Pin To Net: NetName=USBDN2+ Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P7-0
+Added Pin To Net: NetName=GND Pin=P7-0
+Added Pin To Net: NetName=USB_EX3_5V Pin=P7-1
+Added Pin To Net: NetName=USBDN2- Pin=P7-2
+Added Pin To Net: NetName=USBDN2+ Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=USB_UP+ Pin=R1-1
+Added Pin To Net: NetName=USBDN1-_N Pin=R2-2
+Added Pin To Net: NetName=USBDN2- Pin=R6-2
+Added Pin To Net: NetName=USB_UP- Pin=R7-1
+Added Pin To Net: NetName=USBDN3- Pin=R8-2
+Added Pin To Net: NetName=USBDN4- Pin=R9-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=R13-1
+Added Pin To Net: NetName=VCC3V3 Pin=R13-2
+Added Pin To Net: NetName=USBDN1+_P Pin=R14-2
+Added Pin To Net: NetName=USBDN2+ Pin=R15-2
+Added Pin To Net: NetName=USBDN3+ Pin=R16-2
+Added Pin To Net: NetName=USBDN4+ Pin=R17-2
+Added Pin To Net: NetName=NetD2_A Pin=R27-1
+Added Pin To Net: NetName=USB_EX3_5V Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=USB_EX3_EN Pin=R31-1
+Added Pin To Net: NetName=VCC3V3 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetD5_A Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=USB_EX3_EN Pin=R38-1
+Added Pin To Net: NetName=VCC3V3 Pin=R38-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=R39-1
+Added Pin To Net: NetName=VCC3V3 Pin=R39-2
+Added Pin To Net: NetName=NetD6_A Pin=R40-1
+Added Pin To Net: NetName=USB_EX3_5V Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=USB_EX3_EN Pin=R43-1
+Added Pin To Net: NetName=VCC3V3 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=USB_EX3_5V Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=USB_EX3_EN Pin=R47-1
+Added Pin To Net: NetName=VCC3V3 Pin=R47-2
+Added Pin To Net: NetName=USB_EX3_5V Pin=R48-2
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-3
+Added Pin To Net: NetName=VCC3V3 Pin=U1-5
+Added Pin To Net: NetName=NetR17_1 Pin=U1-8
+Added Pin To Net: NetName=NetR9_1 Pin=U1-9
+Added Pin To Net: NetName=VCC3V3 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=VCC3V3 Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Pin To Net: NetName=USB_DET Pin=U1-44
+Added Pin To Net: NetName=VCC3V3 Pin=U1-46
+Added Pin To Net: NetName=VCC3V3 Pin=U1-52
+Added Pin To Net: NetName=VCC3V3 Pin=U1-57
+Added Pin To Net: NetName=NetR7_2 Pin=U1-58
+Added Pin To Net: NetName=VCC3V3 Pin=U1-64
+Added Pin To Net: NetName=GND Pin=U1-65
+Added Pin To Net: NetName=VCC5V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=U3-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U3-6
+Added Pin To Net: NetName=USB_EX3_EN Pin=U7-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U7-6
+Added Pin To Net: NetName=USB_EX3_EN Pin=U8-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U8-6
+Added Pin To Net: NetName=VCC5V Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=U9-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U9-6
+Added Pin To Net: NetName=VCC5V Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=U10-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U10-6
+Added Pin To Net: NetName=VCC5V Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=USB_EX3_EN Pin=U11-3
+Added Pin To Net: NetName=USB_EX3_5V Pin=U11-6
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R30-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-61
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R30-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-60
+Added Pin To Net: NetName=NetC5_2 Pin=Y1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R36-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=R42-2
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R42-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R45-1
+Added Net: Name=NetD9_A
+Added Pin To Net: NetName=NetD10_A Pin=D10-A
+Added Pin To Net: NetName=NetD10_A Pin=R48-1
+Added Net: Name=NetD10_A
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-59
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-4
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-7
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-12
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-54
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U1-56
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U1-6
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U1-11
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U1-45
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U1-53
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U1-55
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U3-5
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U1-63
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=U7-5
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=U8-5
+Added Net: Name=NetR41_2
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U9-5
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U10-5
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=U11-5
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U1-41
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=RESET_N Pin=U1-43
+Added Net: Name=RESET_N
+Added Class: Name=USB2517

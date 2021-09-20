@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=VCC5V Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-4
+Change Component DesignItemId : Designator=C30 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=CH340G
+Change Component DesignItemId : Designator=J3 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J5 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=induct
+Change Component DesignItemId : Designator=D11 Old DesignItemId= New DesignItemId=TVS
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P3 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P4 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P5 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P6 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=P7 Old DesignItemId= New DesignItemId=USB1
+Change Component DesignItemId : Designator=U1 Old DesignItemId=US New DesignItemId=USB2517-JZX
+Change Component Description : Designator=U6 Old Description= New Description=ARM
+Change Component Description : Designator=U3 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U7 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U8 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U9 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U10 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=U11 Old Description= New Description=SOT-23-6
+Change Component Description : Designator=D3 Old Description= New Description=二极管
+Change Component Description : Designator=D1 Old Description= New Description=发光二极管
+Change Component Description : Designator=D2 Old Description= New Description=发光二极管
+Change Component Description : Designator=D4 Old Description= New Description=发光二极管
+Change Component Description : Designator=D5 Old Description= New Description=发光二极管
+Change Component Description : Designator=D6 Old Description= New Description=发光二极管
+Change Component Description : Designator=D7 Old Description= New Description=发光二极管
+Change Component Description : Designator=D8 Old Description= New Description=发光二极管
+Change Component Description : Designator=D9 Old Description= New Description=发光二极管
+Change Component Description : Designator=D10 Old Description= New Description=发光二极管
+Change Component Description : Designator=R1 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R2 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R9 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R10 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R11 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R12 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R13 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R14 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R15 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R16 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R17 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R18 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R19 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R20 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R21 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R22 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R23 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R24 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R31 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R32 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R33 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R34 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R35 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R36 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R37 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R38 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R39 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R40 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R41 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R42 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R43 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R44 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R45 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R46 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R47 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R48 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R49 Old Description= New Description=贴片电阻
+Change Component Description : Designator=C1 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C2 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C3 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C4 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C5 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C6 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C7 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C8 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C9 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C10 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C11 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C12 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C13 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C14 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C15 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C16 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C17 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C18 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C19 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C20 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C21 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C22 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C23 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C24 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C25 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C26 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C27 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C28 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C29 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C31 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C32 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C33 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C34 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C35 Old Description=? New Description=贴片电容
+Change Component Description : Designator=U5 Old Description=https://item.szlcsc.com/40034.html New Description=https://item.szlcsc.com/40034.html LDO 3.3V
+Change Component Description : Designator=U4 Old Description=MP2560D_SOIC-8_ New Description=MP2560D_SOIC-8_EP_150mil
+Change Component Description : Designator=Y1 Old Description=SM New Description=SMD-3225_4P
+Change Component Description : Designator=L2 Old Description=贴? New Description=贴片电感
+Added Component: Designator=P8(USB-A-TH_AF90-OFFSET - duplicate)
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=VCC5V Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Pin To Net: NetName=USBDN5+ Pin=U2-5
+Added Pin To Net: NetName=USBDN5- Pin=U2-6
+Added Member To Class: ClassName=RST_SER_1 Member=Component P8 USB1

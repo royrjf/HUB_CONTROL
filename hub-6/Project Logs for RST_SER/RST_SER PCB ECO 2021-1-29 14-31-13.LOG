@@ -1,0 +1,10 @@
+Added Component: Designator=D?(SOD-523)
+Added Component: Designator=P8(USB_TYPE_A)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=VCC5V Pin=D?-2
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=VCC5V Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Member To Class: ClassName=RST_SER_1 Member=Component D? TVS
+Added Member To Class: ClassName=RST_SER_1 Member=Component P8 USB1

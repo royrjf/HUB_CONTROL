@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=USBDN6+ Pin=R11-2
+Added Net: Name=USBDN6+
+Added Pin To Net: NetName=USBDN6- Pin=R26-2
+Added Net: Name=USBDN6-
+Added Pin To Net: NetName=USBDN7+ Pin=R12-2
+Added Net: Name=USBDN7+
+Added Pin To Net: NetName=USBDN7- Pin=R28-2
+Added Net: Name=USBDN7-

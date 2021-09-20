@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=L1 Old Footprint=L_SMD,3.0x3.0x1.2mm New Footprint=12.3*12.3*8.0
+Added Component: Designator=D11(SOD-523)
+Added Component: Designator=P3(USB-A-TH_AF90-OFFSET - duplicate)
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=VCC5V Pin=D11-2
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=VCC5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Member To Class: ClassName=RST_SER_1 Member=Component D11 TVS
+Added Member To Class: ClassName=RST_SER_1 Member=Component P3 USB1

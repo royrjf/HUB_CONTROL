@@ -1,0 +1,47 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RST_SER.PrjPCB|ReportField=ProjectFullPath~E:\fusion\2020works\RST_SER\hub-6\RST_SER.PrjPCB|ReportField=Title~Bill of Materials For Project [RST_SER.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~138|ReportField=ReportTime~13:19:19|ReportField=ReportDate~2021/3/25|ReportField=ReportDateTime~2021/3/25 13:19:19|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2021/3/25|ReportField=CurrentTime~13:18:39|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\fusion\2020works\RST_SER\hub-6\RST_SER_1.SchDoc|ReportField=DocumentName~RST_SER_1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2021/3/25|ReportField=Organization~|ReportField=ProjectName~RST_SER.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RST_SER.PrjPCB|ReportField=DataSourceFullPath~E:\fusion\2020works\RST_SER\hub-6\RST_SER.PrjPCB
+100nF (104) 10% 50V|ÌùÆ¬µçÈÝ|C1, C3, C6, C10, C11, C12, C13, C14, C15, C17, C22, C23, C24, C32, C34, C36, C38, C41, C45|0603_C|0603 100nF (104) 10% 50V|19
+1uF (105) 10% 50V|ÌùÆ¬µçÈÝ|C2, C7, C16, C20, C25, C31, C33, C35, C37, C39, C43|0603_C|0603 1uF (105) 10% 50V|11
+33pF (330) 5% 50V|ÌùÆ¬µçÈÝ|C4, C5|0603_C|0603 33pF (330) 5% 50V|2
+1uF  50V|ÌùÆ¬µçÈÝ|C8|1206_C|1206 1uF (105) 10% 50V|1
+22UF/25V|ÌùÆ¬µçÈÝ|C9|1206_C|1206 10uF (106) 10% 50V|1
+4.7uF (475) 10% 16V|ÌùÆ¬µçÈÝ|C18|0603_C|0603 4.7uF (475) 10% 16V|1
+100nF|ÌùÆ¬µçÈÝ|C19, C26, C28|0603_C|0603 100nF (104) 10% 50V|3
+10uF|ÌùÆ¬µçÈÝ|C21, C27|0603_C|0603 10uF (106) 10% 10V|2
+10nF|ÌùÆ¬µçÈÝ|C29|0603_C|0603 10nF (103) 10% 50V|1
+100uf||C30|E_6.3*5.4|C|1
+2.7nF (272) 10% 50V|ÌùÆ¬µçÈÝ|C40|0603_C|0603 2.7nF (272) 10% 50V|1
+18pF (180) 5% 50V|ÌùÆ¬µçÈÝ|C42|0603_C|0603 18pF (180) 5% 50V|1
+220nF (224) 10% 25V|ÌùÆ¬µçÈÝ|C44|0603_C|0603 220nF (224) 10% 25V|1
+ÂÌµÆ 0603|·¢¹â¶þ¼«¹Ü|D2, D3, D5, D6, D7, D8, D9, D10|0603_LED_S1|0603 ÂÌµÆ|8
+ºìµÆ 0603|·¢¹â¶þ¼«¹Ü|D4|0603_LED_S1|0603 ºìµÆ|1
+TVS||D11|SOD-523|TVS|1
+MOTOR||J3, J4|5557|header2|2
+header4||J5|xh-4|header4|1
+induct||L1|L_SMD,5.7x5.2mm|induct|1
+1uH ¡À10%|ÌùÆ¬µç¸Ð|L2|0805_L|0805 100uH 10%|1
+USB1||P1|USB-B-TH_USB-B01|USB1|1
+USB1||P2, P3, P4, P5, P6, P7, P8|USB-A-TH_AF90-OFFSET - duplicate|USB1|7
+27¦¸ (27R0) ¡À1%|ÌùÆ¬µç×è|R1, R2, R6, R7, R8, R9, R10, R11, R12, R14, R15, R16, R17, R18, R26, R28|0603_R|0603 27¦¸ (27R0) 1%|16
+20K¦¸ (2002) ¡À1%|ÌùÆ¬µç×è|R3, R23|0603_R|0603 20K¦¸ (2002) 1%|2
+100K¦¸ (1003) ¡À1%|ÌùÆ¬µç×è|R4, R5|0603_R|0603 100K¦¸ (1003) 1%|2
+10K¦¸ (1002) ¡À1%|ÌùÆ¬µç×è|R13, R31, R38, R39, R43, R47|0603_R|0603 10K¦¸ (1002) 1%|6
+4.7K¦¸ (4701) ¡À1%|ÌùÆ¬µç×è|R19, R27, R33, R36, R40, R42, R45, R48, R50, R51, R57, R58|0603_R|0603 4.7K¦¸ (4701) 1%|12
+1M¦¸ (1004) ¡À1%|ÌùÆ¬µç×è|R20, R30|0603_R|0603 1M¦¸ (1004) 1%|2
+10K¦¸|ÌùÆ¬µç×è|R21, R32|0603_R|0603 10K¦¸ (1002) 1%|2
+200K¦¸ (2003) ¡À1%|ÌùÆ¬µç×è|R22|0603_R|0603 200K¦¸ (2003) 1%|1
+2.4K¦¸ (2401) ¡À1%|ÌùÆ¬µç×è|R24|0603_R|0603 2.4K¦¸ (2401) 1%|1
+2.2K¦¸ (2201) ¡À1%|ÌùÆ¬µç×è|R25|0603_R|0603 2.2K¦¸ (2201) 1%|1
+27K¦¸ (2702) ¡À1%|ÌùÆ¬µç×è|R29, R37, R41, R44, R46, R49|0603_R|0603 27K¦¸ (2702) 1%|6
+4.7K¦¸|ÌùÆ¬µç×è|R34|0603_R|0603 1K¦¸ (1001) 1%|1
+12K¦¸ (1202) ¡À1%|ÌùÆ¬µç×è|R35|0603_R|0603 12K¦¸ (1202) 1%|1
+56K¦¸ (5602) ¡À1%|ÌùÆ¬µç×è|R52|0603_R|0603 56K¦¸ (5602) 1%|1
+0¦¸ (0R0) ¡À1%|ÌùÆ¬µç×è|R54|0603_R|0603 0¦¸ (0R0) 1%|1
+3K¦¸ (3001) ¡À1%|ÌùÆ¬µç×è|R55, R56|0603_R|0603 3K¦¸ (3001) 1%|2
+USB2517||U1|QFN-64|USB2517-JZX|1
+CH340C||U2|SOP-16|CH340G|1
+TPS2553DBVT|SOT-23-6|U3, U7, U8, U9, U10, U11|SOT-23-6|TPS2553DBVT|6
+MP4575|MP4575_TSSOP-20|U4|TSSOP-20|MP4575|1
+TPS22958DGKR||U5|MSOP-8|TPS22958DGKR|1
+STM32F030F4P6|ARM|U6|TSSOP-20|STM32F030F4P6|1
+ZLDO1117QG33TA|µÍÑ¹²îÏßÐÔÎÈÑ¹(L|VR1|SOT-223|SOT-223 AMS1117-3.3|1
+OSC-24M|SMD-3225_4P|Y1|SMD-3225_4P|OSC-24M|1

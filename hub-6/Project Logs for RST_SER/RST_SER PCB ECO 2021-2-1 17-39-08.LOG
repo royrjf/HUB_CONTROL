@@ -1,0 +1,15 @@
+Change Component Library : Designator=U1 Old Library=我的集成库.IntLib New Library=我的原理图库.SchLib
+Added Component: Designator=U1(QFN-64)
+Added Pin To Net: NetName=NetR16_1 Pin=U1-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-2
+Added Pin To Net: NetName=NetR17_1 Pin=U1-3
+Added Pin To Net: NetName=NetR9_1 Pin=U1-4
+Added Pin To Net: NetName=NetR18_1 Pin=U1-6
+Added Pin To Net: NetName=NetR10_1 Pin=U1-7
+Added Pin To Net: NetName=NetR26_1 Pin=U1-8
+Added Pin To Net: NetName=NetR11_1 Pin=U1-9
+Added Pin To Net: NetName=NetR28_1 Pin=U1-11
+Added Pin To Net: NetName=NetR12_1 Pin=U1-12
+Added Pin To Net: NetName=NetR35_1 Pin=U1-14
+Added Pin To Net: NetName=NetR14_1 Pin=U1-56
+Added Pin To Net: NetName=GND Pin=U1-63

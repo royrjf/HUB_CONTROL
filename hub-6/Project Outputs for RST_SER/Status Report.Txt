@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [RST_SER.PrjPCB]
+   Generated File[Pick Place for hub_6.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:48:26 On 2021/3/25

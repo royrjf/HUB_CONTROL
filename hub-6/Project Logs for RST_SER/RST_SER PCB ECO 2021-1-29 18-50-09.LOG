@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=VCC5V Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-4
+Removed Pin From Net: NetName=USBDN1- Pin=R2-2
+Removed Pin From Net: NetName=USBDN2- Pin=R6-2
+Removed Pin From Net: NetName=USBDN3- Pin=R8-2
+Removed Pin From Net: NetName=USBDN4- Pin=R9-2
+Removed Pin From Net: NetName=USBDN6- Pin=R11-2
+Removed Pin From Net: NetName=USBDN7- Pin=R12-2
+Removed Pin From Net: NetName=USBDN1+ Pin=R14-2
+Removed Pin From Net: NetName=USBDN2+ Pin=R15-2
+Removed Pin From Net: NetName=USBDN3+ Pin=R16-2
+Removed Pin From Net: NetName=USBDN4+ Pin=R17-2
+Removed Pin From Net: NetName=USBDN6+ Pin=R26-2
+Removed Pin From Net: NetName=USBDN7+ Pin=R28-2
+Added Component: Designator=P8(USB-A-TH_AF90-OFFSET - duplicate)
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Pin To Net: NetName=VCC5V Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Pin To Net: NetName=USBDN1+ Pin=R2-2
+Added Pin To Net: NetName=USBDN2+ Pin=R6-2
+Added Pin To Net: NetName=USBDN3+ Pin=R8-2
+Added Pin To Net: NetName=USBDN4+ Pin=R9-2
+Added Pin To Net: NetName=USBDN6+ Pin=R11-2
+Added Pin To Net: NetName=USBDN7+ Pin=R12-2
+Added Pin To Net: NetName=USBDN1- Pin=R14-2
+Added Pin To Net: NetName=USBDN2- Pin=R15-2
+Added Pin To Net: NetName=USBDN3- Pin=R16-2
+Added Pin To Net: NetName=USBDN4- Pin=R17-2
+Added Pin To Net: NetName=USBDN6- Pin=R26-2
+Added Pin To Net: NetName=USBDN7- Pin=R28-2
+Change Net Name : Old Net Name=USBDN5+ New Net Name=USBDN5-
+Change Net Name : Old Net Name=USBDN5- New Net Name=USBDN5+
+Added Member To Class: ClassName=RST_SER_1 Member=Component P8 USB1

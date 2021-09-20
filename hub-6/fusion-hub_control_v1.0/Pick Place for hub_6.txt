@@ -1,0 +1,141 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D11        SOD-523                760mil       3340mil        735mil       3340mil        735mil       3340mil  T        360.00 TVS            
+R58        0603_R                 328mil       3318mil        328mil       3318mil    358.315mil       3318mil  T        180.00 4.7K次 (4701) ㊣1%
+D3         0603_LED_S1            328mil       3389mil        328mil       3389mil    297.685mil       3389mil  T        180.00 蟯腑 0603        
+R57        0603_R                1360mil       1730mil       1360mil       1730mil       1360mil   1760.315mil  T        270.00 4.7K次 (4701) ㊣1%
+U5         MSOP-8               503.5mil     3201.5mil        405mil       3240mil        405mil       3240mil  T        360.00 TPS22958DGKR   
+C45        0603_C                 390mil       2930mil        390mil       2930mil        390mil   2960.315mil  T        270.00 100nF (104) 10% 50V
+C44        0603_C                 740mil       3155mil        740mil       3155mil        740mil   3185.315mil  T        270.00 220nF (224) 10% 25V
+C43        0603_C                 470mil       2930mil        470mil       2930mil        470mil   2960.315mil  T        270.00 1uF (105) 10% 50V
+R56        0603_R                1735mil   3076.667mil       1735mil   3076.667mil   1704.685mil   3076.667mil  T        360.00 3K次 (3001) ㊣1% 
+R55        0603_R                1600mil   3076.667mil       1600mil   3076.667mil   1569.685mil   3076.667mil  T        360.00 3K次 (3001) ㊣1% 
+R54        0603_R                1600mil       3240mil       1600mil       3240mil   1569.685mil       3240mil  T        360.00 0次 (0R0) ㊣1%   
+R52        0603_R                1435mil       3330mil       1435mil       3330mil       1435mil   3360.315mil  T        270.00 56K次 (5602) ㊣1%
+C42        0603_C                1600mil       2995mil       1600mil       2995mil   1630.315mil       2995mil  T        180.00 18pF (180) 5% 50V
+C41        0603_C                1350mil       2810mil       1350mil       2810mil   1380.315mil       2810mil  T        180.00 100nF (104) 10% 50V
+C40        0603_C                1735mil       2995mil       1735mil       2995mil   1704.685mil       2995mil  T        360.00 2.7nF (272) 10% 50V
+P3         USB-A-TH_AF90-OFFSET_-_duplicate   2461.432mil    1414.13mil       2426mil   1276.333mil       2426mil   1276.333mil  T         90.00 USB1           
+U11        SOT-23-6           348.598mil   1934.882mil        311mil       1905mil        386mil       1990mil  T        270.00 TPS2553DBVT    
+U10        SOT-23-6           508.598mil    782.882mil        471mil        753mil        546mil        838mil  T        270.00 TPS2553DBVT    
+U9         SOT-23-6          2037.118mil   1934.598mil       2067mil       1897mil       1982mil       1972mil  T        360.00 TPS2553DBVT    
+R49        0603_R                 263mil       1801mil        263mil       1801mil    232.685mil       1801mil  T        360.00 27K次 (2702) ㊣1%
+R48        0603_R                 217mil   1943.685mil        217mil   1943.685mil        217mil       1974mil  T        270.00 4.7K次 (4701) ㊣1%
+R47        0603_R                 352mil       2088mil        352mil       2088mil    321.685mil       2088mil  T        360.00 10K次 (1002) ㊣1%
+R46        0603_R                 431mil        639mil        431mil        639mil    400.685mil        639mil  T        360.00 27K次 (2702) ㊣1%
+R45        0603_R                 363mil        775mil        363mil        775mil        363mil    744.685mil  T         90.00 4.7K次 (4701) ㊣1%
+R44        0603_R                2203mil       1853mil       2203mil       1853mil       2203mil   1822.685mil  T         90.00 27K次 (2702) ㊣1%
+R43        0603_R                 512mil        929mil        512mil        929mil    481.685mil        929mil  T        360.00 10K次 (1002) ㊣1%
+R42        0603_R                2031mil       1699mil       2031mil       1699mil   2061.315mil       1699mil  T        180.00 4.7K次 (4701) ㊣1%
+R41        0603_R                2203mil   2668.685mil       2203mil   2668.685mil       2203mil    2638.37mil  T         90.00 27K次 (2702) ㊣1%
+R40        0603_R                2033mil       2496mil       2033mil       2496mil   2063.315mil       2496mil  T        180.00 4.7K次 (4701) ㊣1%
+R39        0603_R                1891mil       1934mil       1891mil       1934mil       1891mil   1903.685mil  T         90.00 10K次 (1002) ㊣1%
+R38        0603_R                1884mil       2710mil       1884mil       2710mil       1884mil   2679.685mil  T         90.00 10K次 (1002) ㊣1%
+R37        0603_R                2223mil       1086mil       2223mil       1086mil       2223mil   1055.685mil  T         90.00 27K次 (2702) ㊣1%
+R36        0603_R                2039mil        933mil       2039mil        933mil   2069.315mil        933mil  T        180.00 4.7K次 (4701) ㊣1%
+R35        0603_R                1645mil       1125mil       1645mil       1125mil   1614.685mil       1125mil  T        360.00 12K次 (1202) ㊣1%
+P7         USB-A-TH_AF90-OFFSET_-_duplicate    364.568mil   1344.203mil        400mil       1482mil        400mil       1482mil  T        270.00 USB1           
+P6         USB-A-TH_AF90-OFFSET_-_duplicate    626.797mil    375.568mil        489mil        411mil        489mil        411mil  T        360.00 USB1           
+P5         USB-A-TH_AF90-OFFSET_-_duplicate   2461.432mil   2190.464mil       2426mil   2052.667mil       2426mil   2052.667mil  T         90.00 USB1           
+P1         USB-B-TH_USB-B01   1500.787mil    303.284mil       1550mil        396mil       1550mil        396mil  T        180.00 USB1           
+D10        0603_LED_S1            142mil   1944.685mil        142mil   1944.685mil        142mil    1914.37mil  T        270.00 蟯腑 0603        
+D9         0603_LED_S1            283mil        775mil        283mil        775mil        283mil    805.315mil  T         90.00 蟯腑 0603        
+D8         0603_LED_S1           2030mil       1781mil       2030mil       1781mil   1999.685mil       1781mil  T        180.00 蟯腑 0603        
+C35        0603_C                 414mil       1801mil        414mil       1801mil    383.685mil       1801mil  T        360.00 1uF (105) 10% 50V
+C34        0603_C                 480mil       1945mil        480mil       1945mil        480mil   1975.315mil  T        270.00 100nF (104) 10% 50V
+C33        0603_C                 570mil        639mil        570mil        639mil    539.685mil        639mil  T        360.00 1uF (105) 10% 50V
+C32        0603_C                 631mil        795mil        631mil        795mil        631mil    825.315mil  T        270.00 100nF (104) 10% 50V
+C31        0603_C                2203mil       1996mil       2203mil       1996mil       2203mil   1965.685mil  T         90.00 1uF (105) 10% 50V
+C18        0603_C                1235mil        620mil       1235mil        620mil   1204.685mil        620mil  T        360.00 4.7uF (475) 10% 16V
+R34        0603_R                 706mil       2060mil        706mil       2060mil    736.315mil       2060mil  T        180.00 4.7K次          
+J5         xh-4                   151mil       2442mil        151mil       2292mil        151mil       2292mil  T         90.00 header4        
+D7         0603_LED_S1            706mil       1985mil        706mil       1985mil    675.685mil       1985mil  T        180.00 蟯腑 0603        
+R20        0603_R                 212mil       3505mil        212mil       3505mil    242.315mil       3505mil  T        180.00 1M次 (1004) ㊣1% 
+C15        0603_C                1655mil       1370mil       1655mil       1370mil   1685.315mil       1370mil  T        180.00 100nF (104) 10% 50V
+C14        0603_C                1279mil       1729mil       1279mil       1729mil       1279mil   1759.315mil  T        270.00 100nF (104) 10% 50V
+C13        0603_C                 986mil       1112mil        986mil       1112mil    955.685mil       1112mil  T        360.00 100nF (104) 10% 50V
+C12        0603_C                1574mil       1550mil       1574mil       1550mil       1574mil   1580.315mil  T        270.00 100nF (104) 10% 50V
+C11        0603_C                 921mil       1287mil        921mil       1287mil    890.685mil       1287mil  T          0.00 100nF (104) 10% 50V
+C10        0603_C                1139mil        981mil       1139mil        981mil       1139mil   1011.315mil  T        270.00 100nF (104) 10% 50V
+R6         0603_R                2037mil       1442mil       2037mil       1442mil   2006.685mil       1442mil  T        360.00 27次 (27R0) ㊣1% 
+R5         0603_R                 924mil       1452mil        924mil       1452mil    893.685mil       1452mil  T          0.00 100K次 (1003) ㊣1%
+R4         0603_R                 923mil       1376mil        923mil       1376mil    953.315mil       1376mil  T        180.00 100K次 (1003) ㊣1%
+U3         SOT-23-6          2037.118mil    382.598mil       2067mil        345mil       1982mil        420mil  T        360.00 TPS2553DBVT    
+P4         USB-A-TH_AF90-OFFSET_-_duplicate   2461.432mil   2966.797mil       2426mil       2829mil       2426mil       2829mil  T         90.00 USB1           
+U4         TSSOP-20          1229.842mil   3022.795mil       1345mil       3135mil       1345mil       3135mil  T        180.00 MP4575         
+U2         SOP-16                1519mil       2307mil       1518mil       2257mil       1629mil       2132mil  T        180.00 CH340C         
+R19        0603_R                 779mil       1453mil        779mil       1453mil    748.685mil       1453mil  T          0.00 4.7K次 (4701) ㊣1%
+R18        0603_R                1693mil   1817.685mil       1693mil   1817.685mil       1693mil    1787.37mil  T         90.00 27次 (27R0) ㊣1% 
+R17        0603_R                2037mil       2925mil       2037mil       2925mil   2006.685mil       2925mil  T          0.00 27次 (27R0) ㊣1% 
+R16        0603_R                2037mil       2163mil       2037mil       2163mil   2006.685mil       2163mil  T        360.00 27次 (27R0) ㊣1% 
+R15        0603_R                2037mil       1367mil       2037mil       1367mil   2006.685mil       1367mil  T        360.00 27次 (27R0) ㊣1% 
+R14        0603_R                2037mil        597mil       2037mil        597mil   2006.685mil        597mil  T        360.00 27次 (27R0) ㊣1% 
+R13        0603_R                1890mil        373mil       1890mil        373mil       1890mil    342.685mil  T         90.00 10K次 (1002) ㊣1%
+R12        0603_R                 854mil        663mil        854mil        663mil        854mil    693.315mil  T        270.00 27次 (27R0) ㊣1% 
+R11        0603_R                 608mil       1306mil        608mil       1306mil    638.315mil       1306mil  T        180.00 27次 (27R0) ㊣1% 
+R10        0603_R                1615mil       1817mil       1615mil       1817mil       1615mil   1786.685mil  T         90.00 27次 (27R0) ㊣1% 
+R9         0603_R                2037mil       3000mil       2037mil       3000mil   2006.685mil       3000mil  T          0.00 27次 (27R0) ㊣1% 
+R8         0603_R                2037mil       2239mil       2037mil       2239mil   2006.685mil       2239mil  T        360.00 27次 (27R0) ㊣1% 
+R7         0603_R                1418mil        657mil       1418mil        657mil       1418mil    626.685mil  T         90.00 27次 (27R0) ㊣1% 
+R3         0603_R                1360mil       3330mil       1360mil       3330mil       1360mil   3360.315mil  T        270.00 20K次 (2002) ㊣1%
+R2         0603_R                2037mil        670mil       2037mil        670mil   2006.685mil        670mil  T        360.00 27次 (27R0) ㊣1% 
+R1         0603_R                1494mil        656mil       1494mil        656mil       1494mil    625.685mil  T         90.00 27次 (27R0) ㊣1% 
+P2         USB-A-TH_AF90-OFFSET_-_duplicate   2461.432mil    637.797mil       2426mil        500mil       2426mil        500mil  T         90.00 USB1           
+D2         0603_LED_S1           2044mil        243mil       2044mil        243mil   2013.685mil        243mil  T        180.00 蟯腑 0603        
+C9         1206_C                 660mil       2960mil        660mil       2960mil        660mil   2901.339mil  T         90.00 22UF/25V       
+C8         1206_C                1280mil       3640mil       1280mil       3640mil       1280mil   3581.339mil  T         90.00 1uF  50V       
+C7         0603_C                2223mil       1221mil       2223mil       1221mil       2223mil   1190.685mil  T         90.00 1uF (105) 10% 50V
+C6         0603_C                2037mil       1285mil       2037mil       1285mil   2006.685mil       1285mil  T          0.00 100nF (104) 10% 50V
+C5         0603_C                1253mil        999mil       1253mil        999mil       1253mil   1029.315mil  T        270.00 33pF (330) 5% 50V
+C4         0603_C                1547mil       1000mil       1547mil       1000mil       1547mil    969.685mil  T         90.00 33pF (330) 5% 50V
+C3         0603_C                1516mil       2041mil       1516mil       2041mil   1485.685mil       2041mil  T        360.00 100nF (104) 10% 50V
+C2         0603_C                2205mil        389mil       2205mil        389mil       2205mil    419.315mil  T        270.00 1uF (105) 10% 50V
+C1         0603_C                2037mil        512mil       2037mil        512mil   2006.685mil        512mil  T        360.00 100nF (104) 10% 50V
+Y1         SMD-3225_4P       1405.695mil    996.465mil    1418.49mil     990.01mil    1362.39mil        963mil  T        360.00 OSC-24M        
+C17        0603_C                1035mil       3215mil       1035mil       3215mil       1035mil   3245.315mil  T        270.00 100nF (104) 10% 50V
+C19        0603_C                 515mil       2270mil        515mil       2270mil    545.315mil       2270mil  T        180.00 100nF          
+C20        0603_C                1300mil       2735mil       1300mil       2735mil   1330.315mil       2735mil  T        180.00 1uF (105) 10% 50V
+C21        0603_C                 550mil       2930mil        550mil       2930mil        550mil   2960.315mil  T        270.00 10uF           
+C22        0603_C                1640mil       1200mil       1640mil       1200mil   1670.315mil       1200mil  T        180.00 100nF (104) 10% 50V
+C23        0603_C                2037mil       2845mil       2037mil       2845mil   2006.685mil       2845mil  T        360.00 100nF (104) 10% 50V
+C24        0603_C                2037mil       2066mil       2037mil       2066mil   2006.685mil       2066mil  T        360.00 100nF (104) 10% 50V
+C25        0603_C                2203mil       2803mil       2203mil       2803mil       2203mil   2772.685mil  T         90.00 1uF (105) 10% 50V
+C26        0603_C                1059mil       2580mil       1059mil       2580mil       1059mil   2610.315mil  T        270.00 100nF          
+C27        0603_C                1134mil       2580mil       1134mil       2580mil       1134mil   2610.315mil  T        270.00 10uF           
+C28        0603_C                1143mil       2015mil       1143mil       2015mil       1143mil   1984.685mil  T         90.00 100nF          
+C29        0603_C                 859mil       2315mil        859mil       2315mil    889.315mil       2315mil  T        180.00 10nF           
+C30        E_6.3*5.4             1550mil     3681.5mil       1550mil       3579mil       1550mil       3579mil  T         90.00 100uf          
+D4         0603_LED_S1            540mil       2725mil        540mil       2725mil    570.315mil       2725mil  T        360.00 綻腑 0603        
+D5         0603_LED_S1           2038mil       1010mil       2038mil       1010mil   2007.685mil       1010mil  T        180.00 蟯腑 0603        
+D6         0603_LED_S1           2033mil       2574mil       2033mil       2574mil   2002.685mil       2574mil  T        180.00 蟯腑 0603        
+J3         5557                  2241mil       3391mil       2241mil       3283mil       2241mil       3499mil  T         90.00 MOTOR          
+J4         5557                  1964mil       3391mil       1964mil       3283mil       1964mil       3499mil  T         90.00 MOTOR          
+L1         L_SMD,5.7x5.2mm    903.386mil       2965mil        990mil       2965mil        990mil       2965mil  T        180.00 induct         
+L2         0805_L                 964mil       2580mil        964mil       2580mil        964mil   2615.039mil  T        270.00 1uH ㊣10%       
+R21        0603_R                 540mil       2800mil        540mil       2800mil    509.685mil       2800mil  T        360.00 10K次           
+R22        0603_R                1285mil       3330mil       1285mil       3330mil       1285mil   3299.685mil  T         90.00 200K次 (2003) ㊣1%
+R23        0603_R                1735mil       3240mil       1735mil       3240mil   1704.685mil       3240mil  T        360.00 20K次 (2002) ㊣1%
+R24        0603_R                1600mil   3158.333mil       1600mil   3158.333mil   1569.685mil   3158.333mil  T        360.00 2.4K次 (2401) ㊣1%
+R25        0603_R                1735mil   3158.333mil       1735mil   3158.333mil   1704.685mil   3158.333mil  T        360.00 2.2K次 (2201) ㊣1%
+R26        0603_R                 609mil       1381mil        609mil       1381mil    639.315mil       1381mil  T        180.00 27次 (27R0) ㊣1% 
+R27        0603_R                2045mil        165mil       2045mil        165mil   2075.315mil        165mil  T        180.00 4.7K次 (4701) ㊣1%
+R28        0603_R                 774mil        663mil        774mil        663mil        774mil    693.315mil  T        270.00 27次 (27R0) ㊣1% 
+R29        0603_R                2208mil        254mil       2208mil        254mil       2208mil    223.685mil  T         90.00 27K次 (2702) ㊣1%
+R30        0603_R                1411mil        856mil       1411mil        856mil   1380.685mil        856mil  T        360.00 1M次 (1004) ㊣1% 
+R31        0603_R                1893mil       1163mil       1893mil       1163mil       1893mil   1132.685mil  T         90.00 10K次 (1002) ㊣1%
+R32        0603_R                 859mil       2400mil        859mil       2400mil    889.315mil       2400mil  T        180.00 10K次           
+R33        0603_R                1257mil       2528mil       1257mil       2528mil       1257mil   2558.315mil  T        270.00 4.7K次 (4701) ㊣1%
+U6         TSSOP-20              1124mil       2280mil       1124mil       2280mil   1239.157mil   2392.205mil  T        180.00 STM32F030F4P6  
+U7         SOT-23-6          2037.118mil   1158.598mil       2067mil       1121mil       1982mil       1196mil  T          0.00 TPS2553DBVT    
+U8         SOT-23-6          2037.118mil   2710.598mil       2067mil       2673mil       1982mil       2748mil  T          0.00 TPS2553DBVT    
+C16        0603_C                 146mil        427mil        146mil        427mil        146mil    457.315mil  T        270.00 1uF (105) 10% 50V
+P8         USB-A-TH_AF90-OFFSET_-_duplicate    780.203mil   3553.432mil        918mil       3518mil        918mil       3518mil  T        180.00 USB1           
+U1         QFN-64            1268.835mil   1411.638mil       1446mil       1264mil       1446mil       1264mil  T        180.00 USB2517        
+R50        0603_R                1010mil       1765mil       1010mil       1765mil       1010mil   1795.315mil  T        270.00 4.7K次 (4701) ㊣1%
+R51        0603_R                 935mil       1765mil        935mil       1765mil        935mil   1795.315mil  T        270.00 4.7K次 (4701) ㊣1%
+C36        0603_C                1700mil       1000mil       1700mil       1000mil       1700mil    969.685mil  T         90.00 100nF (104) 10% 50V
+C37        0603_C                1625mil        999mil       1625mil        999mil       1625mil    968.685mil  T         90.00 1uF (105) 10% 50V
+C38        0603_C                1085mil       1766mil       1085mil       1766mil       1085mil   1796.315mil  T        270.00 100nF (104) 10% 50V
+C39        0603_C                1160mil       1766mil       1160mil       1766mil       1160mil   1796.315mil  T        270.00 1uF (105) 10% 50V
+VR1        SOT-223                540mil       2470mil        540mil       2470mil     658.11mil   2379.449mil  T        360.00 ZLDO1117QG33TA 
+

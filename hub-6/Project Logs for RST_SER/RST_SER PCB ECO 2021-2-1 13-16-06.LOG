@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_EX3_EN Pin=U6-6
+Removed Pin From Net: NetName=USB_EX2_EN Pin=U6-7
+Removed Pin From Net: NetName=USB_EX1_EN Pin=U6-10
+Added Pin To Net: NetName=USB_EX1_EN Pin=U6-14
+Added Pin To Net: NetName=USB_EX2_EN Pin=U6-17
+Added Pin To Net: NetName=USB_EX3_EN Pin=U6-18

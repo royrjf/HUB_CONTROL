@@ -1,0 +1,46 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RST_SER.PrjPCB|ReportField=ProjectFullPath~E:\fusion\2020works\RST_SER\hub-6\RST_SER.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [hub_6.PcbDoc]|ReportField=TotalQuantity~138|ReportField=ReportTime~13:16:18|ReportField=ReportDate~2021/3/25|ReportField=ReportDateTime~2021/3/25 13:16:18|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~hub_6.PcbDoc|ReportField=DataSourceFullPath~E:\fusion\2020works\RST_SER\hub-6\hub_6.PcbDoc
+100nF (104) 10% 50V|?|C1, C3, C6, C10, C11, C12, C13, C14, C15, C17, C22, C23, C24, C32, C34, C36, C38, C41, C45|0603_C|0603 100nF (104) 10% 50V|19
+1uF (105) 10% 50V|?|C2, C7, C16, C20, C25, C31, C33, C35, C37, C39, C43|0603_C|0603 1uF (105) 10% 50V|11
+33pF (330) 5% 50V|?|C4, C5|0603_C|0603 33pF (330) 5% 50V|2
+1uF  50V|?|C8|1206_C|1206 1uF (105) 10% 50V|1
+22UF/25V|?|C9|1206_C|1206 10uF (106) 10% 50V|1
+4.7uF (475) 10% 16V|?|C18|0603_C|0603 4.7uF (475) 10% 16V|1
+100nF|?|C19, C26, C28|0603_C|0603 100nF (104) 10% 50V|3
+10uF|?|C21, C27|0603_C|0603 10uF (106) 10% 10V|2
+10nF|?|C29|0603_C|0603 10nF (103) 10% 50V|1
+100uf||C30|E_6.3*5.4||1
+2.7nF (272) 10% 50V|?|C40|0603_C|0603 2.7nF (272) 10% 50V|1
+18pF (180) 5% 50V|?|C42|0603_C|0603 18pF (180) 5% 50V|1
+220nF (224) 10% 25V|?|C44|0603_C|0603 220nF (224) 10% 25V|1
+蟯腑 0603||D2, D3, D5, D6, D7, D8, D9, D10|0603_LED_S1|0603 蟯腑|8
+綻腑 0603||D4|0603_LED_S1|0603 綻腑|1
+TVS||D11|SOD-523||1
+MOTOR||J3, J4|5557||2
+header4||J5|xh-4||1
+induct||L1|L_SMD,5.7x5.2mm||1
+1uH ㊣10%|泂?|L2|0805_L|0805 100uH 10%|1
+USB1||P1|USB-B-TH_USB-B01||1
+USB1||P2, P3, P4, P5, P6, P7, P8|USB-A-TH_AF90-OFFSET - duplicate||7
+27次 (27R0) ㊣1%||R1, R2, R6, R7, R8, R9, R10, R11, R12, R14, R15, R16, R17, R18, R26, R28|0603_R|0603 27次 (27R0) 1%|16
+20K次 (2002) ㊣1%||R3, R23|0603_R|0603 20K次 (2002) 1%|2
+100K次 (1003) ㊣1%||R4, R5|0603_R|0603 100K次 (1003) 1%|2
+10K次 (1002) ㊣1%||R13, R31, R38, R39, R43, R47|0603_R|0603 10K次 (1002) 1%|6
+4.7K次 (4701) ㊣1%||R19, R27, R33, R36, R40, R42, R45, R48, R50, R51, R57, R58|0603_R|0603 4.7K次 (4701) 1%|12
+1M次 (1004) ㊣1%||R20, R30|0603_R|0603 1M次 (1004) 1%|2
+10K次||R21, R32|0603_R|0603 10K次 (1002) 1%|2
+200K次 (2003) ㊣1%||R22|0603_R|0603 200K次 (2003) 1%|1
+2.4K次 (2401) ㊣1%||R24, R25|0603_R|0603 2.4K次 (2401) 1%|2
+27K次 (2702) ㊣1%||R29, R37, R41, R44, R46, R49|0603_R|0603 27K次 (2702) 1%|6
+4.7K次||R34|0603_R|0603 1K次 (1001) 1%|1
+12K次 (1202) ㊣1%||R35|0603_R|0603 12K次 (1202) 1%|1
+56K次 (5602) ㊣1%||R52|0603_R|0603 56K次 (5602) 1%|1
+0次 (0R0) ㊣1%||R54|0603_R|0603 0次 (0R0) 1%|1
+3K次 (3001) ㊣1%||R55, R56|0603_R|0603 3K次 (3001) 1%|2
+USB2517||U1|QFN-64|US|1
+CH340C||U2|SOP-16||1
+TPS2553DBVT||U3, U7, U8, U9, U10, U11|SOT-23-6|TPS2553DBVT|6
+MP4575|MP4575|U4|TSSOP-20|MP4575|1
+TPS22958DGKR||U5|MSOP-8|TPS|1
+STM32F030F4P6||U6|TSSOP-20|STM32F030F4P6|1
+ZLDO1117QG33TA|腴揤船?|VR1|SOT-223|SOT-223 AMS1117-3.3|1
+OSC-24M|SM|Y1|SMD-3225_4P|OSC-24M|1

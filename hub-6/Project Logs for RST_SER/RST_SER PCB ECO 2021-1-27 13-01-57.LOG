@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=USB+5V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=USB_UP- Pin=P1-2
+Removed Pin From Net: NetName=USB_UP+ Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=USB+5V Pin=PTC-2
+Removed Member From Class: ClassName=RST_SER_1 Member=C18
+Removed Member From Class: ClassName=RST_SER_1 Member=P1
+Removed Member From Class: ClassName=RST_SER_1 Member=PTC
+Removed Member From Class: ClassName=RST_SER_1 Member=U3
+Removed Member From Class: ClassName=RST_SER_1 Member=Y1

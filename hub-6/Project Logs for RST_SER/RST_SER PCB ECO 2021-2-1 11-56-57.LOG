@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_EX3_EN Pin=U6-12
+Removed Pin From Net: NetName=USB_EX2_EN Pin=U6-13
+Removed Pin From Net: NetName=USB_EX1_EN Pin=U6-14
+Added Pin To Net: NetName=USB_EX6_EN Pin=U6-12
+Added Member To Class: ClassName=RST_SER_1 Member=Component P8 USB1

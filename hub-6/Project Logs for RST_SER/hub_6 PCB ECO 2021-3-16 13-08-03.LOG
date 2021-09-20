@@ -1,0 +1,26 @@
+Added Component: Designator=C43(0603_C)
+Added Component: Designator=C44(0603_C)
+Added Component: Designator=C45(0603_C)
+Added Component: Designator=U5(MSOP-8)
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=VCC5V Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=VCC5V Pin=C45-2
+Added Pin To Net: NetName=VCC5V Pin=U5-1
+Added Pin To Net: NetName=VCC5V Pin=U5-3
+Added Pin To Net: NetName=VCC5V Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=U5-7
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=PC_ON Pin=U5-2
+Added Pin To Net: NetName=PC_ON Pin=U6-3
+Added Net: Name=PC_ON
+Added Pin To Net: NetName=VOUT Pin=U5-5
+Added Pin To Net: NetName=VOUT Pin=U5-8
+Added Net: Name=VOUT
+Added Member To Class: ClassName=RST_SER_1 Member=Component C43 1uF (105) 10% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component C44 220nF (224) 10% 25V
+Added Member To Class: ClassName=RST_SER_1 Member=Component C45 100nF (104) 10% 50V
+Added Member To Class: ClassName=RST_SER_1 Member=Component U5 TPS22958DGKR
